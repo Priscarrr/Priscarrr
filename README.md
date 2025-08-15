@@ -8,4 +8,10 @@ Saya adalah seorang mahasiswa dari Universitas Dinamika Bangsa.<br>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Priscarrr&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Priscarrr&layout=compact&layout=compact&theme=algolia"/>
 </a>
+
+
+![](https://nirzak-streak-stats.vercel.app/?user=Priscarrr&theme=tokyonight&hide_border=false)<br/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=Priscarrr&icon=0&color=0)](https://visitcount.itsvg.in)
 </p>
