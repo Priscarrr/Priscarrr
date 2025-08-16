@@ -1,3 +1,14 @@
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=priscarrr&"  />
+</div>
+
+
+
 # Halo 👋
 Perkenalkan, nama saya **Alif Priscar Satria**. <br>
 Saya adalah seorang mahasiswa dari Universitas Dinamika Bangsa.<br>
@@ -20,10 +31,8 @@ Saya adalah seorang mahasiswa dari Universitas Dinamika Bangsa.<br>
 ![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white&style=for-the-badge)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white&style=for-the-badge)
 
+📫 Hubungi saya di: [LinkedIn](https://linkedin.com/in/alif-priscar-satria-8b170137a) | [Email](priscarsatria@gmail.com)
 
-
-
-📫 Hubungi saya di: [LinkedIn](https://linkedin.com/in/alif-priscar-satria-8b170137a/) | [Email](mailto:priscarsatria@gmail.com)
 ---
 [![](https://visitcount.itsvg.in/api?id=Priscarrr&icon=0&color=0)](https://visitcount.itsvg.in)
 </p>
