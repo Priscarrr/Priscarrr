@@ -23,12 +23,18 @@ Saya adalah seorang mahasiswa dari Universitas Dinamika Bangsa.<br>
 
 
 
-
+📫 Hubungi saya di: [LinkedIn](https://linkedin.com/in/alif-priscar-satria-8b170137a/) | [Email](mailto:priscarsatria@gmail.com)
 ---
 [![](https://visitcount.itsvg.in/api?id=Priscarrr&icon=0&color=0)](https://visitcount.itsvg.in)
 </p>
 
 
-📫 Hubungi saya di: [LinkedIn](https://linkedin.com/in/alif-priscar-satria-8b170137a/) | [Email](mailto:priscarsatria@gmail.com)
 
+## Contribution Graph
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/priscarrr/priscarrr/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/priscarrr/priscarrr/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/priscarrr/priscarrr/output/pacman-contribution-graph.svg">
+  </picture>
 
